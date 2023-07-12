@@ -1,0 +1,96 @@
+
+.login{
+    width: 15px;
+    height: 20px;
+}
+.nav1{
+    color: blue;
+}
+.nav1:hover{
+    color: black;
+}
+.mainnav{
+    position: relative;
+    left:1500px;
+}
+.nav2{
+    color: #2B6CB0;
+}
+.nav2:hover{
+    color: black;
+}
+.nav3{
+    margin-left: 10px;
+    color:#2B6CB0;
+    
+}
+.nav3:hover{
+    color: black;
+}
+.language{
+    background-color: rgb(216, 219, 223);
+    border-radius: 10px;
+    width:80px;
+    height:30px;
+    list-style: none;
+    position: relative;
+   
+    top: 0px;
+    display: inline-block;
+    margin-left:20px;
+}
+
+.e{
+  
+    border-radius:50%;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 0px;
+}
+.menue{
+    background-color: #03286F;
+    height:70px;
+    width: 1690px;
+}
+.menue2{
+    background-color: #031f43;
+    height:60px;
+    width: 1690px;
+    position:absolute;
+    top:280px;
+    justify-content: space-between;
+}
+.container {
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(90deg, #03286F 65%, #03286F24 100%);
+    padding: 20px;
+    width:1650px;
+    z-index: 1;
+}
+body{
+    width: 1800px;
+}
+
+.image {
+   position: relative;
+   left:1000px;
+   z-index: -1;
+}
+
+.text {
+    position: absolute;
+    left: 700px;
+    text-align: center;
+    color: white;
+ 
+}
+
+h3{
+    color:#031f43;
+    font-size: 37px;
+    font: bold;
+    position: relative;
+    left: 200px;
+}
